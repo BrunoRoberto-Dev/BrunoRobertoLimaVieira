@@ -1,4 +1,4 @@
-### Opa, prazer! Me chamo Bruno, seja bem vindo.
+### Opa, prazer! Me chamo Bruno, seja bem vindo(a).
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
