@@ -9,7 +9,7 @@
 <br>
 <br>
 
-<div style='display: flex, justify-content: center, align-items: center'>
+<div align="center">
   ![Bruno Roberto](https://github-readme-stats.vercel.app/api?username=BrunoRobertoLimaVieira&show_icons=true&theme=github_dark)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRobertoLimaVieira&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
